@@ -3,7 +3,7 @@ package langjava.acmicpc;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class _2445_별_찍기_9 {
+public class _2446_별_찍기_9 {
     private static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
     public static void main(String[] args) throws IOException {
