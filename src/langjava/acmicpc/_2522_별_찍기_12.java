@@ -2,7 +2,7 @@ package langjava.acmicpc;
 
 import java.io.*;
 
-public class _2449_별_찍기_12 {
+public class _2522_별_찍기_12 {
     private static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
     public static void main(String[] args) throws IOException {
